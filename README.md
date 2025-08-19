@@ -1,4 +1,4 @@
-# Python Snippets 🐍
+# PyFragments 🐍
 
 A collection of small Python projects, experiments, and reusable code.  
 Focused on **automation, problem-solving, and building up toward security tools**.
